@@ -165,3 +165,6 @@ main {
 .hidden {
   display: none; /* criei classe hidden para esconder numero dados*/
 }
+.hidden {
+  display: none;
+}
